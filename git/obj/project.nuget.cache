@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "998BkYjYsEs=",
+  "success": true,
+  "projectFilePath": "C:\\Tejaswi\\Learn\\git\\learngit\\git\\git.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manchikanthi Tejaswi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\Manchikanthi Tejaswi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
