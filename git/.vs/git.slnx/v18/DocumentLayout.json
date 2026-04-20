@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Tejaswi\\Learn\\git\\learngit\\git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{037BA634-EF4C-4762-B866-2A719AFDE87A}|git.csproj|c:\\tejaswi\\learn\\git\\learngit\\git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{037BA634-EF4C-4762-B866-2A719AFDE87A}|git.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27FE50E0-6370-6064-A50D-035E2E8E991F}|git.csproj|c:\\tejaswi\\learn\\git\\learngit\\git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FE50E0-6370-6064-A50D-035E2E8E991F}|git.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Tejaswi\\Learn\\git\\learngit\\git\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T05:57:50.976Z",
               "EditorCaption": ""
